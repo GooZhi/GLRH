@@ -1,0 +1,5 @@
+echo off
+title work-assistant
+cd UYPI_OUSS_2
+node index.js
+pause
